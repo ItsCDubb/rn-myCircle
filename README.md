@@ -1,6 +1,6 @@
-# What is myCircle
+# What is My Circle
 
-myCircle is a Social Networking app that allows you to connect with friends & loved ones. 
+My Circle is a Social Networking app that allows you to connect with friends & loved ones. 
 
 ## Technologies
 
