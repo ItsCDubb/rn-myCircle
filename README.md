@@ -1,6 +1,6 @@
-# What is myWorld
+# What is myCircle
 
-myWorld is a Social Networking app that allows you to connect with friends & loved ones. 
+myCircle is a Social Networking app that allows you to connect with friends & loved ones. 
 
 ## Technologies
 
