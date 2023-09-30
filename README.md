@@ -10,7 +10,7 @@ myCircle is a Social Networking app that allows you to connect with friends & lo
 
 - [Expo](https://expo.dev/)
 
-> The world’s most loved ecosystem of tools that help you devleop, review, & deploy.
+> The world’s most loved ecosystem of tools that help you develop, review, & deploy.
 
 - [NVM (Node Version Manager)](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
 
